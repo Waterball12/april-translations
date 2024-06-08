@@ -1,0 +1,3 @@
+{
+  "module.reactionrole.description" : "Reaction role is a service that allows user to automatically assign roles by adding/removing reaction to a specified message, some example of usage are: verification system and colour roles"
+}

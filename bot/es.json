@@ -1,0 +1,3 @@
+{
+  "module.reactionrole.description" : "Reaction role es un servicio que permite a los usuarios asignar automáticamente roles mediante la adición/eliminación de una reacción a un mensaje específico. Algunos ejemplos de uso son sistemas de verificación y roles de colores."
+}
